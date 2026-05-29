@@ -1,4 +1,4 @@
-# bitewise-ux-design
+# Bitewise-ux-design
 BITEWISE – AI Calorie & Recipe Companion
 # BITEWISE* — AI Calorie & Recipe Companion
 
